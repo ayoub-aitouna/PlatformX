@@ -1,0 +1,60 @@
+.Itemwrapper {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10% 0;
+}
+
+.icon_wrapper {
+    height: 50%;
+    width: 100%;
+    clip-path: circle(30% at 50% 50%);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Icon {
+    font: 500 3rem sans-serif;
+}
+
+.ulItem {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 3%;
+    font: 300 0.7rem sans-serif;
+    color: #fff;
+}
+
+.ulItem li {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    font-size: 0.9rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.liIcon {
+    font-size: 2rem;
+}
+
+.start {
+    width: 60%;
+    height: 10vh;
+    background-color: var(--golden-color);
+    border-radius: 1rem;
+    font: 300 1.2rem sans-serif;
+}

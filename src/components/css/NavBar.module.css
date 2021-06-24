@@ -1,0 +1,111 @@
+.parent_wrapper {
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    grid-auto-flow: column;
+    box-sizing: border-box;
+    padding: 0 2%;
+}
+
+.parent_wrapper>* {
+    width: 50%;
+}
+
+.menu_wrapper ul {
+    height: 100%;
+    padding: 0 3%;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    color: #f5d042;
+    gap: 5%;
+    font: 500 1rem sans-serif;
+}
+
+.menu_wrapper.active ul {
+    color: #353553;
+}
+
+.icon {
+    font-size: 2rem;
+}
+
+.menu_wrapper ul>* {
+    cursor: pointer;
+    user-select: none;
+}
+
+.menu_wrapper ul>*:first-child {
+    color: #353553;
+    margin: 0 5%;
+}
+
+.logo_wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+    .parent_wrapper {
+        position: fixed;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        left: -100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        background-color: #fff;
+    }
+    .parent_wrapper>* {
+        width: 100%;
+    }
+    .menu_wrapper {
+        height: 100%;
+        width: 100%;
+    }
+    .menu_wrapper ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        color: #353553;
+        gap: 5%;
+        padding: 0 10%;
+        font: 500 1rem sans-serif;
+    }
+    .icon {
+        font-size: 2rem;
+    }
+    .icon::after {
+        content: "Account";
+    }
+    .menu_wrapper ul>* {
+        cursor: pointer;
+        user-select: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .menu_wrapper ul>*:first-child {
+        margin: 0 0%;
+    }
+    .menu_wrapper ul>*:last-child::after {
+        content: "Account";
+    }
+    .logo_wrapper {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}

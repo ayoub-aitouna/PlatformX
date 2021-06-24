@@ -1,0 +1,39 @@
+.Wrapper {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.ul {
+    height: 100%;
+    display: flex;
+    padding: 5% 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 7%;
+}
+
+.li {
+    width: 17vw;
+    height: 80vh;
+}
+
+.li:nth-child(2) {
+    width: 17.5vw;
+    height: 85vh;
+}
+
+@media screen and (max-width: 600px) {
+    .Wrapper {
+        height: unset;
+        min-height: 100vh;
+    }
+    .li {
+        width: 80vw;
+        margin: 3% 0;
+    }
+    .li:nth-child(2) {
+        width: 85vw;
+    }
+}
