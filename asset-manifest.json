@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Instagram-clone-reactjs/static/css/main.b388fd25.chunk.css",
-    "main.js": "/Instagram-clone-reactjs/static/js/main.3dc8a230.chunk.js",
-    "main.js.map": "/Instagram-clone-reactjs/static/js/main.3dc8a230.chunk.js.map",
-    "runtime-main.js": "/Instagram-clone-reactjs/static/js/runtime-main.57d852d5.js",
-    "runtime-main.js.map": "/Instagram-clone-reactjs/static/js/runtime-main.57d852d5.js.map",
-    "static/js/2.85abab3a.chunk.js": "/Instagram-clone-reactjs/static/js/2.85abab3a.chunk.js",
-    "static/js/2.85abab3a.chunk.js.map": "/Instagram-clone-reactjs/static/js/2.85abab3a.chunk.js.map",
-    "index.html": "/Instagram-clone-reactjs/index.html",
-    "static/css/main.b388fd25.chunk.css.map": "/Instagram-clone-reactjs/static/css/main.b388fd25.chunk.css.map",
-    "static/js/2.85abab3a.chunk.js.LICENSE.txt": "/Instagram-clone-reactjs/static/js/2.85abab3a.chunk.js.LICENSE.txt"
+    "main.css": "/PlatformX/static/css/main.b388fd25.chunk.css",
+    "main.js": "/PlatformX/static/js/main.3dc8a230.chunk.js",
+    "main.js.map": "/PlatformX/static/js/main.3dc8a230.chunk.js.map",
+    "runtime-main.js": "/PlatformX/static/js/runtime-main.2517ea34.js",
+    "runtime-main.js.map": "/PlatformX/static/js/runtime-main.2517ea34.js.map",
+    "static/js/2.85abab3a.chunk.js": "/PlatformX/static/js/2.85abab3a.chunk.js",
+    "static/js/2.85abab3a.chunk.js.map": "/PlatformX/static/js/2.85abab3a.chunk.js.map",
+    "index.html": "/PlatformX/index.html",
+    "static/css/main.b388fd25.chunk.css.map": "/PlatformX/static/css/main.b388fd25.chunk.css.map",
+    "static/js/2.85abab3a.chunk.js.LICENSE.txt": "/PlatformX/static/js/2.85abab3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.57d852d5.js",
+    "static/js/runtime-main.2517ea34.js",
     "static/js/2.85abab3a.chunk.js",
     "static/css/main.b388fd25.chunk.css",
     "static/js/main.3dc8a230.chunk.js"
