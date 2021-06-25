@@ -1,15 +1,35 @@
 import "./App.css";
-import { Dashboard, History, PayemntPage, Footer } from "./pages";
+import {
+  Dashboard,
+  History,
+  PayemntPage,
+  Footer,
+  CreateDocument,
+} from "./pages";
 import { NavBar } from "./components";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <NavBar />
-      <Dashboard />
-      <History />
-      <PayemntPage />
-      <Footer />
+      <Router>
+        <Switch>
+          <Route
+            exact
+            path="/"
+            component={() => (
+              <>
+                <NavBar />
+                <Dashboard />
+                <History />
+                <PayemntPage />
+                <Footer />
+              </>
+            )}
+          />
+          <Route path="/CreateDocument" component={() => <CreateDocument />} />
+        </Switch>
+      </Router>
     </div>
   );
 }

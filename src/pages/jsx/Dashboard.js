@@ -1,15 +1,18 @@
 import React from "react";
 import style from "../css/Dashboard.module.css";
 import * as IconBi from "react-icons/bi";
+import { Link } from "react-router-dom";
 
 function Dashboard() {
   return (
     <div className={style.parent_wrapper}>
       <div className={style.background}> </div>{" "}
       <div className={style.content_wrapper}>
-        <div className={style.add}>
-          <IconBi.BiPlus />
-        </div>{" "}
+        <Link to={`/CreateDocument`}>
+          <div className={style.add}>
+            <IconBi.BiPlus />
+          </div>{" "}
+        </Link>
         <div className={style.content}>
           <div className={style.header}>
             <div className={style.line}> </div> <p> Welcome to PlatformX </p>{" "}

@@ -29,7 +29,7 @@
     font: 500 1rem sans-serif;
 }
 
-.menu_wrapper.active ul {
+.parent_wrapper.active .menu_wrapper ul {
     color: #353553;
 }
 
