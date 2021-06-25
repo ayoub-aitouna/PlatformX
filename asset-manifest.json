@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PlatformX/static/css/main.b0c92510.chunk.css",
-    "main.js": "/PlatformX/static/js/main.93273070.chunk.js",
-    "main.js.map": "/PlatformX/static/js/main.93273070.chunk.js.map",
+    "main.css": "/PlatformX/static/css/main.65b4c335.chunk.css",
+    "main.js": "/PlatformX/static/js/main.dd190867.chunk.js",
+    "main.js.map": "/PlatformX/static/js/main.dd190867.chunk.js.map",
     "runtime-main.js": "/PlatformX/static/js/runtime-main.2517ea34.js",
     "runtime-main.js.map": "/PlatformX/static/js/runtime-main.2517ea34.js.map",
-    "static/js/2.cef27d31.chunk.js": "/PlatformX/static/js/2.cef27d31.chunk.js",
-    "static/js/2.cef27d31.chunk.js.map": "/PlatformX/static/js/2.cef27d31.chunk.js.map",
+    "static/js/2.3d058d59.chunk.js": "/PlatformX/static/js/2.3d058d59.chunk.js",
+    "static/js/2.3d058d59.chunk.js.map": "/PlatformX/static/js/2.3d058d59.chunk.js.map",
     "index.html": "/PlatformX/index.html",
-    "static/css/main.b0c92510.chunk.css.map": "/PlatformX/static/css/main.b0c92510.chunk.css.map",
-    "static/js/2.cef27d31.chunk.js.LICENSE.txt": "/PlatformX/static/js/2.cef27d31.chunk.js.LICENSE.txt"
+    "static/css/main.65b4c335.chunk.css.map": "/PlatformX/static/css/main.65b4c335.chunk.css.map",
+    "static/js/2.3d058d59.chunk.js.LICENSE.txt": "/PlatformX/static/js/2.3d058d59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2517ea34.js",
-    "static/js/2.cef27d31.chunk.js",
-    "static/css/main.b0c92510.chunk.css",
-    "static/js/main.93273070.chunk.js"
+    "static/js/2.3d058d59.chunk.js",
+    "static/css/main.65b4c335.chunk.css",
+    "static/js/main.dd190867.chunk.js"
   ]
 }
