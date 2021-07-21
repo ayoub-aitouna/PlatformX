@@ -1,0 +1,2 @@
+(this.webpackJsonpplatformx=this.webpackJsonpplatformx||[]).push([[8],{55:function(r,t,p){r.exports={wrapper:"Footer_wrapper__1Ks1O"}},66:function(r,t,p){"use strict";p.r(t);p(2);var a=p(55),e=p.n(a),s=p(1);t.default=function(){return Object(s.jsx)("div",{id:"about",className:e.a.wrapper,children:" "})}}}]);
+//# sourceMappingURL=8.d21c5447.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/css/Footer.module.css"],"names":[],"mappings":"AAAA,uBACI,YAAa,CACb,wBACJ","file":"8.ab0c7b40.chunk.css","sourcesContent":[".wrapper {\r\n    height: 100vh;\r\n    background-color: #fafafa;\r\n}"]}

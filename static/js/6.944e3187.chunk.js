@@ -1,0 +1,2 @@
+(this.webpackJsonpplatformx=this.webpackJsonpplatformx||[]).push([[6],{57:function(e,r,t){e.exports={ConsoleWrapper:"CreateDocument_ConsoleWrapper__3Zsb_"}},68:function(e,r,t){"use strict";t.r(r);var n=t(33),s=t(57),a=t.n(s),o=t(1);r.default=function(e){var r=e.children;return e.auth?Object(o.jsxs)("div",{className:a.a.ConsoleWrapper,children:[Object(o.jsx)(n.e,{})," ",r," "]}):Object(o.jsx)(o.Fragment,{children:"Error 404"})}}}]);
+//# sourceMappingURL=6.944e3187.chunk.js.map
