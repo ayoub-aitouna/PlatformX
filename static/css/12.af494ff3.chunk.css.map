@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/css/Footer.module.css"],"names":[],"mappings":"AAAA,uBACI,gBAAiB,CACjB,eACJ","file":"12.af494ff3.chunk.css","sourcesContent":[".wrapper {\r\n    min-height: 100vh;\r\n    overflow: hidden;\r\n}"]}

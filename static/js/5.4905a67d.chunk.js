@@ -1,2 +1,0 @@
-(this.webpackJsonpplatformx=this.webpackJsonpplatformx||[]).push([[5],{63:function(t,a,c){},71:function(t,a,c){"use strict";c.r(a);c(2);var e=c(33),n=c(4),s=c(63),r=c.n(s),i=c(1);a.default=function(t){var a=t.children;return t.auth?Object(i.jsxs)("div",{className:r.a.HomeWrapper,children:[Object(i.jsx)(e.c,{})," ",a," "]}):Object(i.jsx)(n.a,{to:"/login"})}}}]);
-//# sourceMappingURL=5.4905a67d.chunk.js.map
