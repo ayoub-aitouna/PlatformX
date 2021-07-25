@@ -5,8 +5,8 @@
     "main.css": "/PlatformX/static/css/main.f697baa1.chunk.css",
     "main.js": "/PlatformX/static/js/main.5a3e56fe.chunk.js",
     "main.js.map": "/PlatformX/static/js/main.5a3e56fe.chunk.js.map",
-    "runtime-main.js": "/PlatformX/static/js/runtime-main.3bc16777.js",
-    "runtime-main.js.map": "/PlatformX/static/js/runtime-main.3bc16777.js.map",
+    "runtime-main.js": "/PlatformX/static/js/runtime-main.51224eb5.js",
+    "runtime-main.js.map": "/PlatformX/static/js/runtime-main.51224eb5.js.map",
     "static/js/3.a7c1dfa5.chunk.js": "/PlatformX/static/js/3.a7c1dfa5.chunk.js",
     "static/js/3.a7c1dfa5.chunk.js.map": "/PlatformX/static/js/3.a7c1dfa5.chunk.js.map",
     "static/js/4.7614a829.chunk.js": "/PlatformX/static/js/4.7614a829.chunk.js",
@@ -24,8 +24,8 @@
     "static/js/8.66a7909a.chunk.js": "/PlatformX/static/js/8.66a7909a.chunk.js",
     "static/js/8.66a7909a.chunk.js.map": "/PlatformX/static/js/8.66a7909a.chunk.js.map",
     "static/css/9.733438e2.chunk.css": "/PlatformX/static/css/9.733438e2.chunk.css",
-    "static/js/9.0c16f517.chunk.js": "/PlatformX/static/js/9.0c16f517.chunk.js",
-    "static/js/9.0c16f517.chunk.js.map": "/PlatformX/static/js/9.0c16f517.chunk.js.map",
+    "static/js/9.505b3b75.chunk.js": "/PlatformX/static/js/9.505b3b75.chunk.js",
+    "static/js/9.505b3b75.chunk.js.map": "/PlatformX/static/js/9.505b3b75.chunk.js.map",
     "static/css/10.76550dc5.chunk.css": "/PlatformX/static/css/10.76550dc5.chunk.css",
     "static/js/10.a2bba5f9.chunk.js": "/PlatformX/static/js/10.a2bba5f9.chunk.js",
     "static/js/10.a2bba5f9.chunk.js.map": "/PlatformX/static/js/10.a2bba5f9.chunk.js.map",
@@ -70,7 +70,7 @@
     "static/js/3.a7c1dfa5.chunk.js.LICENSE.txt": "/PlatformX/static/js/3.a7c1dfa5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bc16777.js",
+    "static/js/runtime-main.51224eb5.js",
     "static/js/3.a7c1dfa5.chunk.js",
     "static/css/main.f697baa1.chunk.css",
     "static/js/main.5a3e56fe.chunk.js"
