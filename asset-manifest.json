@@ -2,9 +2,9 @@
   "files": {
     "static/js/0.8308db15.chunk.js": "/PlatformX/static/js/0.8308db15.chunk.js",
     "static/js/0.8308db15.chunk.js.map": "/PlatformX/static/js/0.8308db15.chunk.js.map",
-    "main.css": "/PlatformX/static/css/main.f697baa1.chunk.css",
-    "main.js": "/PlatformX/static/js/main.5a3e56fe.chunk.js",
-    "main.js.map": "/PlatformX/static/js/main.5a3e56fe.chunk.js.map",
+    "main.css": "/PlatformX/static/css/main.20af111d.chunk.css",
+    "main.js": "/PlatformX/static/js/main.b4af440a.chunk.js",
+    "main.js.map": "/PlatformX/static/js/main.b4af440a.chunk.js.map",
     "runtime-main.js": "/PlatformX/static/js/runtime-main.51224eb5.js",
     "runtime-main.js.map": "/PlatformX/static/js/runtime-main.51224eb5.js.map",
     "static/js/3.a7c1dfa5.chunk.js": "/PlatformX/static/js/3.a7c1dfa5.chunk.js",
@@ -66,13 +66,14 @@
     "static/css/7.29cb0244.chunk.css.map": "/PlatformX/static/css/7.29cb0244.chunk.css.map",
     "static/css/8.9196b81e.chunk.css.map": "/PlatformX/static/css/8.9196b81e.chunk.css.map",
     "static/css/9.733438e2.chunk.css.map": "/PlatformX/static/css/9.733438e2.chunk.css.map",
-    "static/css/main.f697baa1.chunk.css.map": "/PlatformX/static/css/main.f697baa1.chunk.css.map",
-    "static/js/3.a7c1dfa5.chunk.js.LICENSE.txt": "/PlatformX/static/js/3.a7c1dfa5.chunk.js.LICENSE.txt"
+    "static/css/main.20af111d.chunk.css.map": "/PlatformX/static/css/main.20af111d.chunk.css.map",
+    "static/js/3.a7c1dfa5.chunk.js.LICENSE.txt": "/PlatformX/static/js/3.a7c1dfa5.chunk.js.LICENSE.txt",
+    "static/media/Logo.547a5ffc.png": "/PlatformX/static/media/Logo.547a5ffc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.51224eb5.js",
     "static/js/3.a7c1dfa5.chunk.js",
-    "static/css/main.f697baa1.chunk.css",
-    "static/js/main.5a3e56fe.chunk.js"
+    "static/css/main.20af111d.chunk.css",
+    "static/js/main.b4af440a.chunk.js"
   ]
 }
